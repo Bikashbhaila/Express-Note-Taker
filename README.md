@@ -1,3 +1,1 @@
-# Express-Note-Taker
-
-npm start
+Express- Note Taker
